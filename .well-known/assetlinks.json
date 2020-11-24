@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wotnot.livechatapp",
+    "sha256_cert_fingerprints":
+    ["D3:0F:B7:FA:86:05:0B:DF:F6:CD:73:8D:B6:11:9E:FA:55:56:CF:CF:4D:55:11:FA:6D:E1:E8:A1:47:12:BB:F5"]
+  }
+}]
